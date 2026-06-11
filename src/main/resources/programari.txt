@@ -1,0 +1,13 @@
+Ion Popescu,Dr. Marinescu,2026-06-10T10:00:00,Durere de cap,SOLICITATA
+Maria Ionescu,Dr. Andrei,2026-06-11T11:30:00,Control de rutina,CONFIRMATA
+Vasile Vasile,Dr. Marinescu,2026-06-12T09:00:00,Reteta compensata,EFECTUATA
+Elena Marin,Dr. Georgescu,2026-06-13T14:00:00,Analize anuale,SOLICITATA
+George Mihai,Dr. Andrei,2026-06-14T15:30:00,Consult dermatologic,ANULATA
+
+
+
+E
+    public String echipament;
+    public LocalDate date;
+    public String scop;
+    public OrderStatus status;
